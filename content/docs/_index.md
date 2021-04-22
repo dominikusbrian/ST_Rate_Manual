@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: ST-Rate
 type: book  # Do not modify.
 toc: false
 ---
